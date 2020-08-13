@@ -22,6 +22,7 @@ The code contains geometrical features presented in the work of:
 2. **Weinmann, M., Jutzi, B., Hinz, S., & Mallet, C. (2015). Semantic point cloud interpretation based on optimal neighborhoods, relevant features and efficient classifiers. ISPRS Journal of Photogrammetry and Remote Sensing, 105, 286-304.**
 
 These features are separated into three types.
+
 **Local Covariance features**
 1. Linearity
 2. Planarity
